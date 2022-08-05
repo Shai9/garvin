@@ -1,9 +1,10 @@
 import React from 'react'
 
 
-function Home() {
+let Home = () => {
   return (
-    <div>Home</div>
+    <div className='w-full h-screen bg-black'>
+    </div>
   )
 }
 
