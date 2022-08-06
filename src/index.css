@@ -14,17 +14,17 @@
  }
 }
 
-.content-div{
-  background-repeat: no-repeat ;
+.content-div {
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 255px;
-
+  height: 250px;
 }
+
 .content-div:hover {
   background-image: linear-gradient(
-    to right,
-    rgb(9, 9, 50),
-    rgb(43, 43, 84),
+      to right,
+      rgba(42, 115, 241, 0.8),
+      hsla(240, 21%, 30%, 0.8)   
   )!important;
 }

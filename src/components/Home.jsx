@@ -10,7 +10,7 @@ let Home = () => {
         <h2 className='sm:text-4xl font-semibold text-white'>I'm a Full-Stack Developer.</h2>
         <p className='text-2xl sm:text-2xl font-light text-white '>Im a passionate Kenyan Software Developer. I'm a weird guy who likes   making weird things   with Web Languages.Currently, I'm focussed on building responsive full-stack web applications.When not working or futzing around with code, I study how we as humans function.</p>
     <div>
-      <button className='text-white border-2 px-9 py-3 my-2 flex items-center hover:bg-[#0b31d8] hover:border-blue-600'>Work</button>
+      <button className='text-white border-2 px-9 py-3 my-2 flex items-center hover:bg-[#2545d4] hover:border-blue-700'>Work</button>
     </div>
       </div>
     </div>
