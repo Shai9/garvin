@@ -17,10 +17,7 @@ let About = ()=> {
             <p>Hi. I'm Dennis, nice to meet you.Please take a look around.</p>
           </div>
           <div >
-            <p className='text-justify text-2xl font-light'>I am passionate about building excellent software that improves
-            the lives of those around me. I specialize in creating software
-            for clients ranging from individuals and small-businesses all the
-            way to large enterprise corporations. What would you do if you had
+            <p className='text-justify text-2xl font-light'>I don't like to define myself by the work I've Done. I define myself by the work I want to do. What would you do if you had
             a software expert available at your fingertips?</p>  
           </div>
         </div>
