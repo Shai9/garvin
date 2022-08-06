@@ -1,9 +1,11 @@
 import React from 'react'
 
-function Work() {
+const  Work= () => {
   return (
-    <div>Work</div>
+    <div name ='work' className='bg-black font-light'>
+
+    </div>
   )
 }
 
-export default Work
+export default Work            
