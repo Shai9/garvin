@@ -20,11 +20,11 @@ const Skills = () => {
           <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
               <div className='shadow-md hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={HtmlImg} alt="HTML icon" />
-                  <p className='my-4 font-light'>Html</p>
+                  <p className='my-4 font-light'>Hyper Text MarkUp Language</p>
               </div>
               <div className='shadow-md hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Css} alt="Css icon" />
-                  <p className='my-4 font-light'>Css</p>
+                  <p className='my-4 font-light'>Cascading Style Sheets</p>
               </div>
               <div className='shadow-md hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Javascript} alt="JavaScript icon" />
