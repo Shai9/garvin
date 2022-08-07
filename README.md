@@ -13,7 +13,7 @@ Dennis Shakava.
 `npx tailwindcss init -p` .React icons are also needed `npm install react icons`
 
 ## Live link
- Here is a direct link `portfolio-shai9.vercel.app`
+ Check Out the live link on the about section 
 
 ## Technologies Used
 * Html
